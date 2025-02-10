@@ -19,11 +19,21 @@ This project is a **Currency Converter** built using JavaFX. It will allow users
   3. Click the **convert** button
   4. The application calculates and displays the **converted amount**
 
-  ## TECHNOLOGIES USED
+## TECHNOLOGIES USED
   - **Java** (Core application logic)
   - **JavaFX** (GUI framework)
   - **Mermaid.js** (UML diagram visual)
   - **GitHub** (version control)
+
+## PERSONAL CONTRIBUTIONS
+Since I am working solo, I am responsible for:
+- **Designing the UML class diagram** for the system structure.
+- **Developing the JavaFX UI** with elements like TextFields, ComboBoxes, and Buttons.
+- **Implementing core functionalities**, UI interactions and conversion logic.
+- **Testing and debugging** the application so that it runs smoothly.
+- **Preparing the final submission** and a video demo for presentation. 
+
+
 
 
 
